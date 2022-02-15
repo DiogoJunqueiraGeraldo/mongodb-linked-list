@@ -1,5 +1,9 @@
 .vscode/
 
+# This is a library
+yarn.lock
+env.json
+
 # Logs
 logs
 *.log
